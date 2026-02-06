@@ -1,0 +1,7 @@
+{
+  "name": "Gemini AI Insurance Advisor",
+  "description": "A sophisticated AI-powered insurance advisor that provides personalized premium estimates, risk analysis, and plan recommendations using Gemini 3 Pro and Google Search grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
